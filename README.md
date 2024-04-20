@@ -1,2 +1,4 @@
 # ClaseDosDiana
-creación de repositorio y manejo de MarkDown
+## Titulo Dos
+Creación de repositorio y manejo de MarkDown
+
