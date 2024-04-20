@@ -1,5 +1,7 @@
-# ClaseDosDiana
-## Autor: Diana Termal
+
+<h1 align="center">ClaseDosDiana</h1>
+
+## *Autor: Diana Termal*
 ## Titulo Dos
 ### Titulo Tres
 Creación de repositorio y manejo de MarkDown
@@ -8,5 +10,6 @@ Creación de repositorio y manejo de MarkDown
 
 
 
-  ##Referencias
-[Google](https://www.google.com)
+ ## Referencias
+ 
+ [Google](https://www.google.com)
