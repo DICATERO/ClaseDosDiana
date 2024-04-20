@@ -13,3 +13,11 @@ Creación de repositorio y manejo de MarkDown
  ## Referencias
  
  [Google](https://www.google.com)
+
+## Código
+`código en línea`
+
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
