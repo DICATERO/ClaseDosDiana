@@ -1,8 +1,9 @@
 # ClaseDosDiana
+## Autor: Diana Termal
 ## Titulo Dos
 ### Titulo Tres
 Creación de repositorio y manejo de MarkDown
 - Version uno.
 - Version dos.
   
-Autor: Diana Termal
+
