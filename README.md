@@ -26,3 +26,9 @@ def hola_mundo():
 |--------------|--------------|--------------|
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
+
+## Imágenes
+
+<p align="center">
+<img src="Logo.jpg" height="100">
+</p>
